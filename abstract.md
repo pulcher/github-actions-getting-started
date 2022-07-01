@@ -1,6 +1,6 @@
-# Getting started with Github Actions
+# Getting started with GitHub Actions
 
-Do you have a repository on Github?  If so, have you configured Github Actions to help automate all the tasks associated with your project? Think your project is too big, or too small for Github actions?  You would be wrong on that account.  It doesn't matter whether the release requires an installer to be built, a push to a web server, a docker container built, or even updating a .NET services running on a Raspberry PI.  Flexibility is one of the strong suits of Github Actions!  Come to my talk and I will go over the main features along with demonstrations of setting up workflows in github proper and self-hosted on a remote device.  
+Do you have a repository on Github?  If so, have you configured GitHub Actions to help automate all the tasks associated with your project? Think your project is too big, or too small for Github actions?  You would be wrong on that account.  It doesn't matter whether the release requires an installer to be built, a push to a web server, a docker container built, or even updating a .NET worker service running on a Raspberry PI.  Flexibility is one of the strong suits of GitHub Actions!  Come to my talk and I will go over the main features along with demonstrations of setting up workflows in GitHub proper and self-hosted on a remote device.  
 
 
 
