@@ -1,0 +1,16 @@
+URLs used in the presentation:
+
+URL-1: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+URL-2: https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#create-a-repository-dispatch-event
+URL-3: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule
+URL-4: https://github.com/pulcher/BeerTracker
+URL-5: https://docs.github.com/en/actions/using-jobs/using-jobs-in-a-workflow
+URL-6: https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions
+URL-7: https://docs.github.com/en/actions/examples/using-scripts-to-test-your-code-on-a-runner
+URL-8: https://github.com/pulcher/TalkingHead/actions
+URL-9: https://docs.github.com/en/actions/creating-actions/about-custom-actions
+URL-10: https://github.com/actions/checkout/tree/v3
+URL-11: https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners
+
+URL-12: https://docs.github.com/en/actions
+
